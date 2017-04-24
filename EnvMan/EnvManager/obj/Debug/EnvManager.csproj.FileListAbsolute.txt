@@ -1,0 +1,13 @@
+C:\Users\hujianfei\Desktop\EnvMan-source\EnvMan\EnvManager\bin\Debug\EnvManager.dll.config
+C:\Users\hujianfei\Desktop\EnvMan-source\EnvMan\EnvManager\bin\Debug\EnvManager.dll
+C:\Users\hujianfei\Desktop\EnvMan-source\EnvMan\EnvManager\bin\Debug\EnvManager.pdb
+C:\Users\hujianfei\Desktop\EnvMan-source\EnvMan\EnvManager\bin\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\hujianfei\Desktop\EnvMan-source\EnvMan\EnvManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hujianfei\Desktop\EnvMan-source\EnvMan\EnvManager\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\hujianfei\Desktop\EnvMan-source\EnvMan\EnvManager\obj\Debug\EnvManager.csproj.ResolveComReference.cache
+C:\Users\hujianfei\Desktop\EnvMan-source\EnvMan\EnvManager\obj\Debug\EnvManager.EnvManager.resources
+C:\Users\hujianfei\Desktop\EnvMan-source\EnvMan\EnvManager\obj\Debug\EnvManager.FrmEditEnvVar.resources
+C:\Users\hujianfei\Desktop\EnvMan-source\EnvMan\EnvManager\obj\Debug\EnvManager.Properties.Resources.resources
+C:\Users\hujianfei\Desktop\EnvMan-source\EnvMan\EnvManager\obj\Debug\EnvManager.csproj.GenerateResource.Cache
+C:\Users\hujianfei\Desktop\EnvMan-source\EnvMan\EnvManager\obj\Debug\EnvManager.dll
+C:\Users\hujianfei\Desktop\EnvMan-source\EnvMan\EnvManager\obj\Debug\EnvManager.pdb
